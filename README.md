@@ -8,7 +8,7 @@ pom.xml:
 
     <repositories>
         <repository>
-            <id>yanbingxu-maven-repo</id>
+            <id>yangbingxu-maven-repo</id>
             <url>https://raw.githubusercontent.com/yangbingxu/maven-repo/master/repository</url>
         </repository>
     </repositories>
