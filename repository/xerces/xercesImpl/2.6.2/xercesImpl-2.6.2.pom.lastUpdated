@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Mar 30 09:10:33 CST 2017
+http\://maven.jeecg.org/nexus/content/repositories/snapshots/.error=
+http\://maven.jeecg.org/nexus/content/repositories/snapshots/.lastUpdated=1490836232753
+https\://repo.maven.apache.org/maven2/.lastUpdated=1490836233410
+http\://maven.jeecg.org/nexus/content/repositories/jeecg/.lastUpdated=1490836232675
+http\://maven.jeecg.org/nexus/content/repositories/jeecg/.error=

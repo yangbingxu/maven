@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu May 11 09:25:32 CST 2017
+junit-4.10.jar>nexus-releases=
+junit-4.10.jar>central=
+junit-4.10.pom>nexus-releases=
+junit-4.10.pom>central=

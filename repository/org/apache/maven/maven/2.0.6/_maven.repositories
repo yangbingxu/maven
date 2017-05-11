@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed May 10 16:49:18 CST 2017
+maven-2.0.6.pom>nexus-releases=
+maven-2.0.6.pom>central=
+maven-2.0.6.pom>nexus=

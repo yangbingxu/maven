@@ -1,0 +1,8 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed May 10 16:51:03 CST 2017
+log4j-1.2.12.jar>central=
+log4j-1.2.12.pom>central=
+log4j-1.2.12.jar>nexus-releases=
+log4j-1.2.12.pom>nexus=
+log4j-1.2.12.pom>nexus-releases=
+log4j-1.2.12.jar>nexus=

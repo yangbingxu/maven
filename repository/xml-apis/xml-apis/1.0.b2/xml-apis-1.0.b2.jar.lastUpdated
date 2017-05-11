@@ -1,0 +1,9 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue May 09 15:15:11 CST 2017
+http\://repo.maven.apache.org/maven2/.lastUpdated=1494314111055
+http\://maven.jeecg.org/nexus/content/repositories/snapshots/.error=
+http\://maven.jeecg.org/nexus/content/repositories/snapshots/.lastUpdated=1490836245411
+http\://maven.jeecg.org/nexus/content/repositories/jeecg/.lastUpdated=1490836243380
+http\://maven.jeecg.org/nexus/content/repositories/jeecg/.error=
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1490836297409
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact xml-apis\:xml-apis\:jar\:1.0.b2 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.

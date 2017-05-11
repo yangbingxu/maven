@@ -1,0 +1,8 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed May 10 16:49:13 CST 2017
+maven-install-plugin-2.3.1.jar>nexus=
+maven-install-plugin-2.3.1.pom>central=
+maven-install-plugin-2.3.1.jar>nexus-releases=
+maven-install-plugin-2.3.1.pom>nexus-releases=
+maven-install-plugin-2.3.1.jar>central=
+maven-install-plugin-2.3.1.pom>nexus=

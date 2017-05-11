@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Mar 30 09:11:37 CST 2017
+http\://maven.jeecg.org/nexus/content/repositories/snapshots/.error=
+http\://maven.jeecg.org/nexus/content/repositories/snapshots/.lastUpdated=1490836245426
+http\://maven.jeecg.org/nexus/content/repositories/jeecg/.lastUpdated=1490836243410
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1490836297455
+http\://maven.jeecg.org/nexus/content/repositories/jeecg/.error=
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-beans\:jar\:4.0.9.RELEASE from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.

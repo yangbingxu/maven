@@ -1,0 +1,8 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu May 11 09:24:50 CST 2017
+surefire-api-2.10.jar>central=
+surefire-api-2.10.pom>central=
+surefire-api-2.10.pom>nexus=
+surefire-api-2.10.jar>nexus=
+surefire-api-2.10.jar>nexus-releases=
+surefire-api-2.10.pom>nexus-releases=

@@ -1,0 +1,8 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu May 11 09:27:22 CST 2017
+httpclient-4.0.2.pom>nexus-releases=
+httpclient-4.0.2.jar>central=
+httpclient-4.0.2.pom>central=
+httpclient-4.0.2.pom>nexus=
+httpclient-4.0.2.jar>nexus=
+httpclient-4.0.2.jar>nexus-releases=

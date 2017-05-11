@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.p3framework</groupId>
+  <artifactId>jeecg-p3-pom</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170104.065156</timestamp>
+      <buildNumber>6</buildNumber>
+    </snapshot>
+    <lastUpdated>20170104065156</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20170104.065156-6</value>
+        <updated>20170104065156</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

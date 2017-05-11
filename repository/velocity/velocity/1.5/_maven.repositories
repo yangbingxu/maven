@@ -1,0 +1,8 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu May 11 09:27:22 CST 2017
+velocity-1.5.jar>nexus-releases=
+velocity-1.5.pom>nexus=
+velocity-1.5.pom>nexus-releases=
+velocity-1.5.jar>nexus=
+velocity-1.5.jar>central=
+velocity-1.5.pom>central=

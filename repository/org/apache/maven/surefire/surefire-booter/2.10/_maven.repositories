@@ -1,0 +1,8 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu May 11 09:24:50 CST 2017
+surefire-booter-2.10.pom>nexus-releases=
+surefire-booter-2.10.pom>nexus=
+surefire-booter-2.10.jar>nexus=
+surefire-booter-2.10.jar>central=
+surefire-booter-2.10.pom>central=
+surefire-booter-2.10.jar>nexus-releases=

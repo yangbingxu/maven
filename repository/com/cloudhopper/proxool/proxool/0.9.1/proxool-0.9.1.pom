@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.cloudhopper.proxool</groupId>
+  <artifactId>proxool</artifactId>
+  <packaging>jar</packaging>
+  <version>0.9.1</version>
+  <name>proxool</name>
+  <description>Cloudhopper distribution of Proxool database connection pooling library</description>
+  <url>http://proxool.sourceforge.net/</url>
+  <scm>
+    <connection>scm:cvs:pserver:anonymous@proxool.cvs.sourceforge.net:/cvsroot/proxool</connection>
+    <url>http://proxool.cvs.sourceforge.net/viewvc/proxool/</url>
+  </scm>
+  <licenses>
+    <license>
+      <name>Apache License 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.html</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <name>Bill Horsman</name>
+      <email>bill@logicalcobwebs.com</email>
+    </developer>
+  </developers>
+  <dependencies>
+    <dependency>
+      <groupId>com.cloudhopper.proxool</groupId>
+      <artifactId>proxool-cglib</artifactId>
+      <version>0.9.1</version>
+    </dependency>
+    <dependency>
+      <groupId>commons-logging</groupId>
+      <artifactId>commons-logging</artifactId>
+      <version>[1.1,)</version>
+    </dependency>
+    <dependency>
+      <groupId>avalon-framework</groupId>
+      <artifactId>avalon-framework-api</artifactId>
+      <version>[4.1.5,)</version>
+    </dependency>
+    <dependency>
+      <groupId>javax.servlet</groupId>
+      <artifactId>servlet-api</artifactId>
+      <version>[2.3,)</version>
+      <scope>provided</scope>
+    </dependency>
+  </dependencies>
+</project>

@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed May 10 16:51:03 CST 2017
+maven-shared-utils-0.7.jar>nexus=
+maven-shared-utils-0.7.pom>nexus=
+maven-shared-utils-0.7.jar>nexus-releases=
+maven-shared-utils-0.7.pom>nexus-releases=

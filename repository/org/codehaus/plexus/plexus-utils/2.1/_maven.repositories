@@ -1,0 +1,8 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu May 11 09:24:50 CST 2017
+plexus-utils-2.1.jar>nexus-releases=
+plexus-utils-2.1.pom>nexus-releases=
+plexus-utils-2.1.jar>central=
+plexus-utils-2.1.pom>central=
+plexus-utils-2.1.pom>nexus=
+plexus-utils-2.1.jar>nexus=

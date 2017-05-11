@@ -1,0 +1,8 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed May 10 16:49:09 CST 2017
+maven-surefire-plugin-2.10.jar>central=
+maven-surefire-plugin-2.10.pom>nexus=
+maven-surefire-plugin-2.10.jar>nexus-releases=
+maven-surefire-plugin-2.10.jar>nexus=
+maven-surefire-plugin-2.10.pom>central=
+maven-surefire-plugin-2.10.pom>nexus-releases=

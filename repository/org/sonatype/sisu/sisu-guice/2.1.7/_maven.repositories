@@ -1,0 +1,8 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu May 11 09:27:22 CST 2017
+sisu-guice-2.1.7-noaop.jar>nexus-releases=
+sisu-guice-2.1.7.pom>nexus=
+sisu-guice-2.1.7.pom>nexus-releases=
+sisu-guice-2.1.7-noaop.jar>central=
+sisu-guice-2.1.7.pom>central=
+sisu-guice-2.1.7-noaop.jar>nexus=
